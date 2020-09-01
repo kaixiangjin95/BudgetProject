@@ -4,3 +4,5 @@ This project is an online interest calculating and analysis app. The budget calc
 Instruction to start the application.<br/>
 1.run npm install to install the dependencies.<br/>
 2.run ng serve to check this application.<br/>
+3.This project will be run on localhost:4200.
+4.
