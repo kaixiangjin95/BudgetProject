@@ -4,5 +4,7 @@ This project is an online interest calculating and analysis app. The budget calc
 Instruction to start the application.<br/>
 1.run npm install to install the dependencies.<br/>
 2.run ng serve to check this application.<br/>
-3.This project will be run on localhost:4200.
-4.
+3.This project will be run on localhost:4200.<br/>
+4.The UI interface of the calculator below.<br/>
+<image src="https://github.com/kaixiangjin95/BudgetProject/blob/master/budget-app/src/assets/Budget_App_Screenshot1.png"><br/>
+<image src="https://github.com/kaixiangjin95/BudgetProject/blob/master/budget-app/src/assets/Budget_App_Screenshot3.png">
